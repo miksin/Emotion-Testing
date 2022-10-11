@@ -19,4 +19,14 @@ export const css = {
     medium: style({ width: 250, height: 125, }),
     small: style({ width: 125, height: 75, }),
   },
+  hover: {
+    background: {
+      pink: style({ ':hover': { background: '#ff8c8c' } }),
+      dark: style({ ':hover': { background: '#2B2B2B' } }),
+    },
+    color: {
+      pink: style({ ':hover': { color: '#ff8c8c' } }),
+      dark: style({ ':hover': { color: '#2B2B2B' } }),
+    },
+  },
 } as const
