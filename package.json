@@ -1,5 +1,6 @@
 {
   "name": "css-in-js-playground",
+  "homepage": "https://miksin.github.io/css-in-js-playground",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
