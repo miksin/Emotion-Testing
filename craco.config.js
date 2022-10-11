@@ -6,4 +6,13 @@ module.exports = {
       add: [new VanillaExtractPlugin()],
     },
   },
+  babel: {
+    presets: [
+      [
+        "@babel/preset-react",
+        { runtime: "automatic", importSource: "@emotion/react" },
+      ],
+    ],
+    plugins: ["@emotion/babel-plugin"],
+  },
 }
