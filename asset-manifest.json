@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emotion-playground/static/css/main.e6c13ad2.css",
+    "main.js": "/emotion-playground/static/js/main.6f5451ec.js",
+    "static/js/787.52d377b1.chunk.js": "/emotion-playground/static/js/787.52d377b1.chunk.js",
+    "index.html": "/emotion-playground/index.html",
+    "main.e6c13ad2.css.map": "/emotion-playground/static/css/main.e6c13ad2.css.map",
+    "main.6f5451ec.js.map": "/emotion-playground/static/js/main.6f5451ec.js.map",
+    "787.52d377b1.chunk.js.map": "/emotion-playground/static/js/787.52d377b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6f5451ec.js"
+  ]
+}
